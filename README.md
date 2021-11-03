@@ -2,7 +2,7 @@
 # Module Text mining
 ## PART A
 ### Task 1:
-1  Clean the corpus by eliminating punctuation and stop words.
+1  Clean the corpus by eliminating punctuation and stop words. /
 2  Tokenize it.
 3  Try to obtain bi-grams.
 ### Task 2:
