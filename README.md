@@ -1,5 +1,4 @@
-# Assignment for the course Text mining and Sentiment analysis
-# Module Text mining
+# Assignment for the course Text mining and Sentiment analysis. Module Text mining
 ## PART A
 ### Task 1:
 1  Clean the corpus by eliminating punctuation and stop words. 
